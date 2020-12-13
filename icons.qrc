@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/smile-sad.png</file>
+        <file>icons/smile-happy.png</file>
+        <file>icons/smile-template.png</file>
+        <file>icons/boom.png</file>
+        <file>icons/red-flag.png</file>
+        <file>icons/mine.png</file>
+        <file>icons/doubt-flag.png</file>
+    </qresource>
+</RCC>
